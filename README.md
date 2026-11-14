@@ -1,6 +1,6 @@
 # Actividad 12 – Chatbot de Datos con Streamlit y OpenAI
 
-**App publicada:** https://ENLACE.streamlit.app
+**App publicada:** https://actividad12-joel.streamlit.app
 
 ## Descripción
 Desarrollé un chatbot web con Streamlit que usa el modelo `gpt-4o-mini` de OpenAI para responder preguntas en lenguaje natural sobre una tabla CSV.
